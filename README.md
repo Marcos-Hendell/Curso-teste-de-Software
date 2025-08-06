@@ -1,0 +1,1 @@
+Curso Gravidade ZERO (Papito TechQA) com foco em testes de software. Aprendizado em QA, testes manuais e APIs, uso de ferramentas como Postman, GitHub e Trello. Ainda verei automação com Robot Framework, Selenium e integração com CI/CD.
